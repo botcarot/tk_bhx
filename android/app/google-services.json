@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "863754560620",
+    "firebase_url": "https://tk-bhx.firebaseio.com",
+    "project_id": "tk-bhx",
+    "storage_bucket": "tk-bhx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863754560620:android:93df2fdd982ae7a55f2449",
+        "android_client_info": {
+          "package_name": "com.example.tk_bhx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863754560620-c54ugnpp51vtuaboq8mj26bjosm3rcql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIdtZQKzHyYwbgHiW08S2X5VdPBfxZi0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863754560620-c54ugnpp51vtuaboq8mj26bjosm3rcql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
